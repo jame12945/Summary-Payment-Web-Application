@@ -8,6 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+Runs the app in browser [deploy_project](https://68c6d96e6f8677ac655ab93a--summary-income-expense.netlify.app)
+
 ### `npm start`
 
 Runs the app in the development mode.\
