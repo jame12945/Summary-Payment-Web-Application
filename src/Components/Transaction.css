@@ -1,0 +1,27 @@
+.item-list{
+    padding:0;
+    margin-bottom: 40px;
+    list-style-type: none; 
+    text-align: center;
+}
+.item{
+    padding:0;
+    color: Brown;
+    font-size: 16px;
+    list-style-type: none; 
+    text-align: center;
+}
+.item-list li{
+    background-color: #fff;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+    padding: 30px;
+    color:#333;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+  
+}
+
+/* .item-list li:hover{
+    box-shadow: 0 2px 16px 0 rgba(144, 238, 144, 0.7);  light green 
+} */
