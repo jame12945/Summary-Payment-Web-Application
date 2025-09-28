@@ -1,6 +1,6 @@
 # Summary-Payment-Web-Application
 <br/>
-[<p>https://68c6d96e6f8677ac655ab93a--summary-income-expense.netlify.app/insert</p>](https://68c6d96e6f8677ac655ab93a--summary-income-expense.netlify.app/)
+<li>https://68c6d96e6f8677ac655ab93a--summary-income-expense.netlify.app/</li>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
